@@ -1,0 +1,3 @@
+n = int(input("Input an integer: ")) 
+result = sum(range(n+1))  #sum of futher integer to previous one
+print("Sum of the first", n ,"positive integers:",result)  
